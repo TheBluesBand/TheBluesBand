@@ -1,24 +1,10 @@
-# Welcome to Jake's GitHub Profile!
+# Welcome!
 
-<div style="display: flex; justify-content: left; padding-right: 10px; padding-bottom: 10px">
+<div style="display: flex; justify-content: left; padding-right: 10px; padding-bottom: 10px, width: 100%">
   <a href="https://www.linkedin.com/in/jake-mccoy-573a2b272/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jake McCoy LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/TheBluesBand" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jake McCoy GitHub" height="30" width="40" /></a>
 </div>
-Hi! I'm Jake McCoy, a fourth-year Computer Science student at the University of Wollongong. I'm currently working as a Software Engineer at Sample Assist while completing my Bachelor's degree. I'm passionate about expanding my skillset to become a well-rounded full-stack developer.
-
-## 🚀 Work Experience
-
-As a Project Manager/Full-Stack Engineer at <a href="https://www.sampleassist.com" target="_blank">Sample Assist</a>, I lead development projects and contribute to the creation of innovative medical technology solutions in the Sample Collection Space.
-
-My key responsibilities include:
-
-- **Project Planning and Management**: Defining project scope, allocating resources, and managing timelines to ensure successful project delivery.
-- **Software Development**: Actively participating in the development and maintenance of our core applications using React, Typescript, Nestjs, PostgreSQL and AWS.
-- **Collaboration**: Working closely with cross-functional teams, including designers, engineers, and medical professionals, to gather requirements and ensure our solutions align with healthcare needs.
-
-## Public GitHub Stats
-
-![Jakes's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBluesBand)
+I'm Jake McCoy, and I'm the Release Manager for Sample Assist. My primary responsibility is ensuring the reliable and efficient delivery of our software releases. Additionally, I also manage the Intern Program, focusing on fostering a productive and growth-oriented environment for our interns through the University of Wollongong.
 
 ## 🛠️ Tools of Choice
 
