@@ -16,10 +16,6 @@ My key responsibilities include:
 - **Software Development**: Actively participating in the development and maintenance of our core applications using React, Typescript, Nestjs, PostgreSQL and AWS.
 - **Collaboration**: Working closely with cross-functional teams, including designers, engineers, and medical professionals, to gather requirements and ensure our solutions align with healthcare needs.
 
-## Public GitHub Stats
-
-![Jakes's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBluesBand)
-
 ## 🛠️ Tools of Choice
 
 #### 👨‍💻 Programming languages
