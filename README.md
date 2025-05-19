@@ -8,7 +8,7 @@ Hi! I'm Jake McCoy, a fourth-year Computer Science student at the University of 
 
 ## 🚀 Work Experience
 
-As a Project Manager/Full-Stack Engineer at <a href="https://www.sampleassist.com" target="_blank">Sample Assist</a>, I lead development projects and contribute to the creation of innovative medical technology solutions in the Sample Collection Space.
+As a Software Engineering Intern at <a href="https://www.sampleassist.com" target="_blank">Innomente</a>, I lead contributed to the creation of innovative medical technology solutions in the Sample Collection Space.
 
 My key responsibilities include:
 
