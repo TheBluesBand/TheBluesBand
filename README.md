@@ -10,9 +10,9 @@ Head of Product @ [Innosano](https://innosano.com) | Founder @ [DigiWize](https:
 
 ---
 
-## What I'm building
+# What I'm building
 
-### <a href="https://digiwize.solutions/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/digiwize-dark.svg"><img src="assets/digiwize-light.svg" height="20" align="absmiddle" alt="DigiWize logo"></picture></a> [DigiWize](https://digiwize.solutions/)
+## <a href="https://digiwize.solutions/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/digiwize-dark.svg"><img src="assets/digiwize-light.svg" height="24" align="absmiddle" alt="DigiWize logo"></picture></a> [DigiWize](https://digiwize.solutions/)
 
 Engineering operations platform. It reports on delivery from the work itself, so nobody writes status updates.
 
@@ -21,9 +21,9 @@ Engineering operations platform. It reports on delivery from the work itself, so
 - Incident management with SLA alerts
 - Customer management, plus Freshdesk, Zendesk and Zoho integrations
 
-<img height="32" src="https://skillicons.dev/icons?i=ts,react,postgres,vite" alt="TypeScript, React, PostgreSQL, Vite"> &nbsp;+ Hono · Drizzle · TanStack · Socket.IO
+<img height="32" align="absmiddle" src="https://skillicons.dev/icons?i=ts,react,postgres,vite" alt="TypeScript, React, PostgreSQL, Vite"> &nbsp;+ Hono · Drizzle · TanStack · Socket.IO
 
-### <a href="https://innosano.com/groundctrl-sport.html"><img src="assets/groundctrl.png" height="20" align="absmiddle" alt="GroundCtrl logo"></a> [GroundCtrl Sport](https://innosano.com/groundctrl-sport.html)
+## <a href="https://innosano.com/groundctrl-sport.html"><img src="assets/groundctrl.png" height="24" align="absmiddle" alt="GroundCtrl logo"></a> [GroundCtrl Sport](https://innosano.com/groundctrl-sport.html)
 
 An Innosano product. Operations platform for sports organisations. I work as a forward deployed engineer, building modules with the customer.
 
@@ -32,9 +32,9 @@ An Innosano product. Operations platform for sports organisations. I work as a f
 - Rich-text notes, travel management and audit trails
 - Zoom and Microsoft Teams calls
 
-<img height="32" src="https://skillicons.dev/icons?i=ts,nestjs,react,postgres" alt="TypeScript, NestJS, React, PostgreSQL"> &nbsp;+ Expo · Drizzle · Socket.IO
+<img height="32" align="absmiddle" src="https://skillicons.dev/icons?i=ts,nestjs,react,postgres" alt="TypeScript, NestJS, React, PostgreSQL"> &nbsp;+ Expo · Drizzle · Socket.IO
 
-### <a href="https://www.sampleassist.com"><img src="assets/sampleassist-shield.png" height="20" align="absmiddle" alt="Sample Assist logo"></a> [Sample Assist](https://www.sampleassist.com)
+## <a href="https://www.sampleassist.com"><img src="assets/sampleassist-shield.png" height="24" align="absmiddle" alt="Sample Assist logo"></a> [Sample Assist](https://www.sampleassist.com)
 
 An Innosano product. Workplace drug testing platform, and where I started as an intern.
 
@@ -43,7 +43,7 @@ An Innosano product. Workplace drug testing platform, and where I started as an 
 - Shipped the Welcome Assist check-in kiosk
 - Built and deployed the T-Core website
 
-<img height="32" src="https://skillicons.dev/icons?i=react,flutter,nestjs,express,postgres,githubactions" alt="React, Flutter, NestJS, Express, PostgreSQL, GitHub Actions">
+<img height="32" align="absmiddle" src="https://skillicons.dev/icons?i=react,flutter,nestjs,express,postgres,githubactions" alt="React, Flutter, NestJS, Express, PostgreSQL, GitHub Actions">
 
 ---
 
