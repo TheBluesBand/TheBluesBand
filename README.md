@@ -1,42 +1,51 @@
-# Jake McCoy
+# Hey, I'm Jake 👋
 
-Product lead who still ships code. Head of Product at [Sample Assist](https://www.sampleassist.com), founder of DigiWize, Computer Science graduate from the University of Wollongong.
+**Product lead who still ships code.**
+
+Head of Product @ [Innosano](https://innosano.com) | Founder @ [DigiWize](https://digiwize.solutions/) | CS @ UOW
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-james-mccoy/)
 
-Most of my code lives in private company repos, so this page covers what I've been building and the stacks I've used.
+> 🔒 Most of my code is in private repos. This is what's in them.
+
+---
 
 ## What I'm building
 
-### DigiWize: engineering operations platform
+### <a href="https://digiwize.solutions/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/digiwize-dark.svg"><img src="assets/digiwize-light.svg" height="20" align="absmiddle" alt="DigiWize logo"></picture></a> [DigiWize](https://digiwize.solutions/)
 
-DigiWize puts projects, sprints, incidents and team communication in one place and reports on delivery straight from the work, so nobody writes a status update by hand.
+Engineering operations platform. It reports on delivery from the work itself, so nobody writes status updates.
 
-I built:
+- Delivery analytics: workload, flow, velocity and leaderboards
+- Sprints, with capacity that accounts for leave and public holidays
+- Incident management with SLA alerts
+- Customer management, plus Freshdesk, Zendesk and Zoho integrations
 
-- **Delivery analytics**: workload, flow (lead time and work in progress), velocity (by member, project and subtask, with custom date ranges) and team leaderboards
-- **Sprints**: estimation, filtering, soft-deleted projects, and capacity that accounts for rostering, leave and public holidays
-- **Incident management**: routing, SLA alerts and task access controls
-- **Customers**: a customer management module, plus Freshdesk, Zendesk and Zoho integrations
+<img height="32" src="https://skillicons.dev/icons?i=ts,react,postgres,vite" alt="TypeScript, React, PostgreSQL, Vite"> &nbsp;+ Hono · Drizzle · TanStack · Socket.IO
 
-`TypeScript` `React 19` `TanStack Router/Query` `Hono` `Drizzle ORM` `PostgreSQL` `Better Auth` `Socket.IO` `Vite+`
+### <a href="https://innosano.com/groundctrl-sport.html"><img src="assets/groundctrl.png" height="20" align="absmiddle" alt="GroundCtrl logo"></a> [GroundCtrl Sport](https://innosano.com/groundctrl-sport.html)
 
-### GroundCtrl Sport: operations platform for sports organisations
+An Innosano product. Operations platform for sports organisations. I work as a forward deployed engineer, building modules with the customer.
 
-I work as a forward-deployed engineer on this, building modules with the customer.
+- Ported the core modules to a React Native app
+- Real-time messaging and group chats
+- Rich-text notes, travel management and audit trails
+- Zoom and Microsoft Teams calls
 
-- Ported the platform's core modules (Coaching, Commercial, Workflows, Contractor Management, Tasks & Projects, Admin) to React Native/Expo
-- Real-time messaging: conversations, group chats, typing indicators, rate limiting
-- Rich-text notes on web and mobile, travel management, branding consent, admin audit trail
-- Zoom and Microsoft Teams integrations for calls and conferences
+<img height="32" src="https://skillicons.dev/icons?i=ts,nestjs,react,postgres" alt="TypeScript, NestJS, React, PostgreSQL"> &nbsp;+ Expo · Drizzle · Socket.IO
 
-`TypeScript` `NestJS` `React` `React Native (Expo)` `Drizzle ORM` `PostgreSQL` `Socket.IO`
+### <a href="https://www.sampleassist.com"><img src="assets/sampleassist-shield.png" height="20" align="absmiddle" alt="Sample Assist logo"></a> [Sample Assist](https://www.sampleassist.com)
 
-### Sample Assist: workplace drug testing platform
+An Innosano product. Workplace drug testing platform, and where I started as an intern.
 
-I started here as an intern. I built Secure Assist, a digital chain of custody for biological samples (React Native), set up the CI/CD pipelines the team still runs on, and still ship features across web and mobile, most recently the Welcome Assist check-in kiosk. I also designed, built and deployed the website for T-Core, a consultancy serving the heavy resources industry.
+- Built Secure Assist, a digital chain of custody for samples
+- Set up the CI/CD pipelines the team still runs on
+- Shipped the Welcome Assist check-in kiosk
+- Built and deployed the T-Core website
 
-`React` `Flutter` `NestJS` `Express` `PostgreSQL` `React Native` `Vite`
+<img height="32" src="https://skillicons.dev/icons?i=react,flutter,nestjs,express,postgres,githubactions" alt="React, Flutter, NestJS, Express, PostgreSQL, GitHub Actions">
+
+---
 
 ## Toolbox
 
